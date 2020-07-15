@@ -17,7 +17,7 @@ This is the CRUD application which makes use of **REST API** like dependency pro
 
 Commands for getting started
 
-First you have to get all the dependencies installed , once thats done you will get "app.bundle.js" file.
+1. First you have to get all the dependencies installed , once thats done you will get "app.bundle.js" file.
 
 -   For building the application
 
@@ -25,7 +25,7 @@ First you have to get all the dependencies installed , once thats done you will 
 npm run build
 ```
 
-1. Once the application is built then start the application using following command. The application will be started on "localhost:8080"
+2. Once the application is built then start the application using following command. The application will be started on "localhost:8080"
 
 -   For starting the application
 
