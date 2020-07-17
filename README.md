@@ -22,7 +22,7 @@ Commands for getting started
 -   For building the application
 
 ```
-npm run build
+npm insatll
 ```
 
 2. Once the application is built then start the application using following command. The application will be started on "localhost:8080"
