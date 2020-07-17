@@ -33,7 +33,7 @@ npm install
 npm run start
 ```
 
-3. Run JSON server along with main application this will work as the backend
+3. Run JSON server along with main application this will work as the backend. Run this command in new terminal so the data base in the api folder will work.
 
 -   For starting the JSON server
 
